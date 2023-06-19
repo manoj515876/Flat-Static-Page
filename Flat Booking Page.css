@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.img {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 60vh;
+    width: 100vw;
+}
+
+.bg-color {
+    background-color: #ffffff;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    text-align: center;
+}
+
+.heading {
+    font-family: Bee Serif;
+    color: #f19116;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+.para {
+    font-family: Bee Serif;
+    font-weight: bold;
+    color: #7b8794;
+}
+
+.btn-1 {
+    margin: 20px;
+}
+
+.bg-color-1 {
+    background-color: #222222;
+    padding: 14px;
+    height: 100%;
+}
+
+.heading-10 {
+    font-family: Bee Serif;
+    color: #f19116;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.card-10 {
+    background-color: #ffffff;
+    height: 160px;
+    border-radius: 8px;
+    margin-bottom: 14px;
+}
+
+.img-10 {
+    height: 160px;
+    width: 100px;
+}
+
+.content-9 {
+    padding: 10px;
+}
+
+.heading-9 {
+    color: #0f0e46;
+    font-family: Bee Serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.para-9 {
+    color: #6c6b70;
+    font-family: Bee Serif;
+    font-size: 13px;
+}
+
+.btn-2 {
+    margin: 10px;
+}
+
+
+.img-7 {
+    height: 32vh;
+    width: 100vw;
+}
+
+.bg-color-7 {
+    background-color: #222222;
+    padding: 20px;
+    height: 100vh;
+}
+
+.heading-7 {
+    color: #f19116;
+    font-size: 24px;
+    font-family: Bee Serif;
+}
+
+.nam {
+    padding: 10px;
+}
+
+.non {
+    text-align: center;
+}
+
+.maa {
+    margin-right: 20px;
+}
+
+.img-6 {
+    height: 24px;
+}
+
+.para-7 {
+    color: #ffffff;
+    font-family: Bee Serif;
+    padding-left: 10px;
+}
+
+.ma {
+    background-color: #ffffff;
+    height: 2px;
+}
